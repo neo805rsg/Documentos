@@ -1,4 +1,4 @@
-avg_outflow,avg_inflow,total_grid,Am,BOD,COD,TN,T,TM,Tm,SLP,H,PP,VV,V,VM,VG,year,month,day
+avg_outflow,avg_inflow,total_grid,Ammonia,BOD,COD,Total_Nitrogeno,Temp,Temp_Max,Temp_min,Atmospheric_pressure,Humidity,Rainfall,avg_Visibility,avg_windspeed,max_windspeed,VG,year,month,day
 2.941,2.589,175856,27,365,730,60.378,19.3,25.1,12.6,0,56,1.52,10,26.9,53.5,79.5,2014,1,1
 2.936,2.961,181624,25,370,740,60.026,17.1,23.6,12.3,0,63,0,10,14.4,27.8,0,2014,1,2
 2.928,3.225,202016,42,418,836,64.522,16.8,27.2,8.8,0,47,0.25,10,31.9,61.1,77.8,2014,1,5
